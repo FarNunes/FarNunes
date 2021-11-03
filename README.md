@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com Ciência de Dados
 - 📠 Focado em Python, SQL, BI e Excel
+- 📚
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block">
 
