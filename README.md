@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com Ciência de Dados
 - 🌱 Estudando Python, SQL, BI e Excel
-- 📫 Contate-me no e-mail: farleynuness@gmail.com
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block">
 
