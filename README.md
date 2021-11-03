@@ -1,7 +1,7 @@
 ### Yoooooooo! Eu sou Farley 👋
 
 - 🔭 Atualmente trabalho com Ciência de Dados
-- 🌱 Estudando Python, SQL, BI e Excel
+- 📠 Focado em Python, SQL, BI e Excel
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block">
 
