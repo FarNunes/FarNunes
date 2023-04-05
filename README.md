@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com Ciência de Dados
 - 📠 Focado em Python, SQL, Power BI e Excel
 - 📚 Engenharia de Produção
-- 😄 Pronouns: ele/dele
+
 <div style="display: inline_block">
 
 <a href="https://www.linkedin.com/in/farley-nunes-21a02037" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
